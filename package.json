@@ -1,27 +1,26 @@
 {
-  "name": "electron-quick-start",
+  "name": "kiltakalenteri",
   "version": "1.0.0",
-  "description": "A minimal Electron application",
+  "description": "A google calendar display window.",
   "main": "main.js",
   "scripts": {
     "start": "electron main.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/atom/electron-quick-start.git"
+    "url": "git+https://github.com/juliusrajala/google-calendar-display.git"
   },
   "keywords": [
     "Electron",
-    "quick",
-    "start",
-    "tutorial"
+    "digit",
+    "calendar"
   ],
-  "author": "GitHub",
+  "author": "Julius Rajala",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/atom/electron-quick-start/issues"
+    "url": "#"
   },
-  "homepage": "https://github.com/atom/electron-quick-start#readme",
+  "homepage": "#",
   "devDependencies": {
     "electron-prebuilt": "^0.34.0"
   }
